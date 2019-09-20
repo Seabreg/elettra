@@ -1,0 +1,5 @@
+#REDIRECT https://www.winstonsmith.info/julia/elettra 
+
+HOW TO COMPILE:
+
+g++': g++ *.cpp -I. `wx-config --cxxflags --libs` -o elettra_gui
